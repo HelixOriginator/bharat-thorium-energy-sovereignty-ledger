@@ -3,9 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>BTEL Dashboard</title>
+  <title>BTEL Command Dashboard</title>
 
-  <!-- Google Font -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
 
   <style>
@@ -27,12 +26,14 @@
     }
 
     h1 {
-      font-size: 32px;
+      font-size: 34px;
     }
 
     h2 {
-      margin-top: 40px;
+      margin-top: 50px;
       font-size: 22px;
+      border-bottom: 1px solid #222;
+      padding-bottom: 6px;
     }
 
     p {
@@ -50,6 +51,13 @@
       color: #9ec3ff;
     }
 
+    .card {
+      background: #1a1a1a;
+      padding: 20px;
+      border-radius: 10px;
+      margin-top: 15px;
+    }
+
     table {
       width: 100%;
       border-collapse: collapse;
@@ -59,28 +67,10 @@
     th, td {
       padding: 12px;
       border: 1px solid #333;
-      text-align: left;
     }
 
     th {
       background: #1a1a1a;
-    }
-
-    .card {
-      background: #1a1a1a;
-      padding: 20px;
-      border-radius: 10px;
-      margin-top: 15px;
-    }
-
-    input {
-      width: 100%;
-      padding: 10px;
-      background: #000;
-      border: 1px solid #333;
-      color: white;
-      border-radius: 6px;
-      margin-bottom: 10px;
     }
 
     .highlight {
@@ -88,15 +78,37 @@
       font-weight: 600;
     }
 
+    .cta-container {
+      text-align: center;
+      margin-top: 40px;
+    }
+
     .btn {
       display: inline-block;
       padding: 14px 26px;
+      margin: 10px;
       background: linear-gradient(135deg, #0047AB, #D4AF37);
       color: black;
       text-decoration: none;
       border-radius: 8px;
       font-weight: bold;
-      margin-top: 20px;
+      box-shadow: 0 4px 15px rgba(0,71,171,0.4);
+    }
+
+    .btn-secondary {
+      background: linear-gradient(135deg, #111, #333);
+      color: #D4AF37;
+      border: 1px solid #D4AF37;
+    }
+
+    .flow {
+      background: #111;
+      padding: 15px;
+      border-radius: 8px;
+      margin-top: 15px;
+      text-align: center;
+      font-weight: 600;
+      color: #ccc;
     }
 
     .footer {
@@ -105,128 +117,128 @@
       font-size: 13px;
       color: #888;
     }
-
-    .links a {
-      display: inline-block;
-      margin-right: 10px;
-      padding: 8px 14px;
-      background: #0047AB;
-      color: white;
-      border-radius: 6px;
-      text-decoration: none;
-      font-size: 14px;
-    }
   </style>
 </head>
 
 <body>
-  <div class="container">
+<div class="container">
 
-    <!-- HERO -->
-    <h1>BHARAT THORIUM ENERGY LEDGER (BTEL) v1.0</h1>
-    <p>A Citizen-Built Infrastructure for Intellectual Atmanirbharta</p>
+  <!-- HERO -->
+  <h1>BHARAT THORIUM ENERGY LEDGER (BTEL) v1.0</h1>
+  <p>A Citizen-Built Infrastructure for Intellectual Atmanirbharta</p>
 
-    <div class="badges">
-      <span>National IP Award 2026 Invitee</span>
-      <span>262+ DOIs Verified</span>
-      <span>353+ Live Platforms</span>
-    </div>
-
-    <!-- MAP / DATA -->
-    <h2>Geospatial Intelligence: Thorium Belt Mapping</h2>
-    <table>
-      <tr>
-        <th>Region</th>
-        <th>Thorium Presence</th>
-        <th>Energy Deficit</th>
-        <th>SMR Impact</th>
-      </tr>
-      <tr>
-        <td>Kerala</td>
-        <td>High</td>
-        <td>Medium</td>
-        <td>Coal dependency eliminated</td>
-      </tr>
-      <tr>
-        <td>Odisha</td>
-        <td>High</td>
-        <td>High</td>
-        <td>Industrial stabilization</td>
-      </tr>
-      <tr>
-        <td>Andhra Pradesh</td>
-        <td>Moderate</td>
-        <td>High</td>
-        <td>Grid resilience</td>
-      </tr>
-      <tr>
-        <td>Tamil Nadu</td>
-        <td>High</td>
-        <td>Medium</td>
-        <td>Export surplus potential</td>
-      </tr>
-    </table>
-
-    <p>
-      Strategic Outcome: SMR deployment transforms imported energy dependence into a sovereign capability layer.
-    </p>
-
-    <!-- SME -->
-    <h2>Local Prosperity Engine (SME Calculator)</h2>
-    <div class="card">
-      <input type="text" placeholder="Enter District Name">
-      <p class="highlight">
-        Suggested Opportunity: Green Hydrogen / Desalination / Precision Manufacturing
-      </p>
-      <p>
-        Enabled by 24/7 thorium baseload ensuring industrial continuity and Intellectual Sovereignty.
-      </p>
-    </div>
-
-    <!-- CRISIS -->
-    <h2>National Exigency Protocol: 100% Fuel Independence Logic</h2>
-    <div class="card">
-      <p>
-        High-temperature thorium systems enable High-Temperature Electrolysis pathways.
-      </p>
-      <p class="highlight">
-        Projected Impact: ~40% reduction in hydrogen production costs vs solar methods.
-      </p>
-    </div>
-
-    <!-- IP -->
-    <h2>Nano Banana IP Shield</h2>
-    <div class="card">
-      <p>
-        Defensive publications establish a sovereign moat by preventing external patent capture while maintaining zero-cost protection of indigenous innovation.
-      </p>
-    </div>
-
-    <!-- AUDIT -->
-    <h2>Sovereign Intelligence Audit Layer</h2>
-    <div class="card">
-      <p>
-        Verified across multiple platforms ensuring institutional-grade credibility.
-      </p>
-      <div class="links">
-        <a href="https://zenodo.org/record/18524801" target="_blank">Zenodo Archive</a>
-        <a href="#" target="_blank">GitHub Repositories</a>
-      </div>
-    </div>
-
-    <!-- CTA -->
-    <div style="text-align:center;">
-      <a class="btn" href="https://opal.google/app/1Ms-1bHVXqp99u4B_uH7ejvWEa0ZXDk71" target="_blank">
-        Access Full Strategic Blueprint
-      </a>
-    </div>
-
-    <!-- FOOTER -->
-    <div class="footer">
-      Created by Kallol Chakrabarti, Global Independent Researcher.<br>
-      Viksit Bharat 2047 | Intellectual Sovereignty Framework
-    </div>
-
+  <div class="badges">
+    <span>National IP Award 2026 Invitee</span>
+    <span>262+ DOIs Verified</span>
+    <span>353+ Live Platforms</span>
   </div>
+
+  <!-- OIL CONTEXT -->
+  <h2>Strategic Context: Oil Dependency Risk</h2>
+  <div class="card">
+    <p>
+      India imports ~85% of its crude oil requirements, exposing the economy to global shocks and geopolitical volatility.
+    </p>
+    <p class="highlight">
+      Thorium enables a structural reduction in petrol, diesel, and crude oil dependence.
+    </p>
+  </div>
+
+  <!-- FLOW -->
+  <div class="flow">
+    Crude Oil → Electricity → Hydrogen → Industry → Sovereign Energy System
+  </div>
+
+  <!-- MAP -->
+  <h2>Geospatial Intelligence: Thorium Belt Mapping</h2>
+  <table>
+    <tr>
+      <th>Region</th>
+      <th>Thorium Presence</th>
+      <th>Energy Deficit</th>
+      <th>SMR Impact</th>
+    </tr>
+    <tr>
+      <td>Kerala</td>
+      <td>High</td>
+      <td>Medium</td>
+      <td>Coal dependency eliminated</td>
+    </tr>
+    <tr>
+      <td>Odisha</td>
+      <td>High</td>
+      <td>High</td>
+      <td>Industrial stabilization</td>
+    </tr>
+    <tr>
+      <td>Andhra Pradesh</td>
+      <td>Moderate</td>
+      <td>High</td>
+      <td>Grid resilience</td>
+    </tr>
+    <tr>
+      <td>Tamil Nadu</td>
+      <td>High</td>
+      <td>Medium</td>
+      <td>Export surplus potential</td>
+    </tr>
+  </table>
+
+  <!-- SME -->
+  <h2>Local Prosperity Engine (SME Layer)</h2>
+  <div class="card">
+    <p class="highlight">
+      Opportunities: Green Hydrogen | Desalination | Precision Manufacturing
+    </p>
+    <p>
+      Enabled by 24/7 thorium-based baseload power ensuring industrial continuity.
+    </p>
+  </div>
+
+  <!-- HYDROGEN -->
+  <h2>Hydrogen Transformation Layer</h2>
+  <div class="card">
+    <p>
+      High-Temperature Electrolysis powered by thorium enables hydrogen production at significantly lower cost.
+    </p>
+    <p class="highlight">
+      ~40% cost reduction vs solar-based hydrogen systems
+    </p>
+  </div>
+
+  <!-- IP -->
+  <h2>Nano Banana IP Shield</h2>
+  <div class="card">
+    <p>
+      Defensive publications create a sovereign moat, preventing foreign patent capture while preserving zero-cost access.
+    </p>
+  </div>
+
+  <!-- AUDIT -->
+  <h2>Sovereign Intelligence Audit Layer</h2>
+  <div class="card">
+    <p>262+ DOIs | 353+ Platforms | Multi-layer validation</p>
+    <a class="btn-secondary" href="https://zenodo.org/record/18524801" target="_blank">View Zenodo Archive</a>
+  </div>
+
+  <!-- CTA BUTTONS -->
+  <div class="cta-container">
+    <a class="btn" href="https://opal.google/app/1Ms-1bHVXqp99u4B_uH7ejvWEa0ZXDk71" target="_blank">
+      Open Full Strategic Blueprint
+    </a>
+
+    <!-- IMPORTANT: Replace filename if needed -->
+    <a class="btn" href="BTEL_Dark_Pitch_Deck.pptx" target="_blank">
+      View Presentation (PPT)
+    </a>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="footer">
+    Created by Kallol Chakrabarti, Global Independent Researcher.<br>
+    Viksit Bharat 2047 | Intellectual Sovereignty Framework
+  </div>
+
+</div>
 </body>
 </html>
