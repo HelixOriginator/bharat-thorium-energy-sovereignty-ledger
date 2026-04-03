@@ -1,82 +1,148 @@
 # 🇮🇳 Bharat Thorium Energy Ledger (BTEL) v1.0
 
 **A Citizen-Built Infrastructure for Intellectual Atmanirbharta**
+**Toward Viksit Bharat 2047**
 
 ---
 
 ## Overview
 
-The **Bharat Thorium Energy Ledger (BTEL)** is a strategic, evidence-backed digital framework designed to map India’s thorium resources into a national energy and industrial advantage.
+The **Bharat Thorium Energy Ledger (BTEL)** is a high-fidelity, evidence-backed national framework that transforms India’s thorium reserves into a strategic energy and industrial advantage.
 
-It presents a structured pathway toward **energy independence**, **industrial acceleration**, and **intellectual sovereignty**, aligned with the vision of **Viksit Bharat 2047**.
+It is designed as a **sovereign knowledge infrastructure**, aligning energy independence, industrial growth, and intellectual sovereignty into a unified system.
 
-This dashboard is designed as a high-level briefing interface suitable for institutional stakeholders including policy bodies, research councils, and national planning agencies.
+This is not a theoretical proposal.
+BTEL represents an already instantiated and continuously validated knowledge architecture.
+
+---
+
+## Strategic Context
+
+India currently imports ~85% of its crude oil requirements, exposing the economy to global volatility and geopolitical risk.
+
+BTEL addresses this structural vulnerability by enabling:
+
+* Large-scale **electrification** (reducing petrol and diesel demand)
+* **Hydrogen-based industrial fuel substitution**
+* Continuous, domestic **baseload energy via thorium**
+
+**Outcome:** A long-term structural reduction in crude oil dependency.
 
 ---
 
 ## Core Thesis
 
 India possesses one of the world’s largest thorium reserves.
-BTEL proposes a unified system that:
+BTEL operationalizes this advantage through an integrated system:
 
-* Converts **monazite-rich coastal regions** into energy hubs
-* Deploys **Small Modular Reactors (SMRs)** for continuous baseload power
-* Enables **high-efficiency hydrogen production** using advanced thermal processes
-* Creates a **sovereign industrial ecosystem** powered by domestic energy
+* Monazite-rich regions → Thorium extraction
+* Thorium → Small Modular Reactors (SMRs)
+* SMRs → 24/7 baseload electricity
+* Electricity → Hydrogen + Industry + Electrification
+
+This creates a **self-reinforcing sovereign energy loop**.
 
 ---
 
-## Key Components
+## System Architecture
 
 ### 1. Geospatial Intelligence Layer
 
-* Maps thorium-bearing regions (Kerala, Odisha, Andhra Pradesh, Tamil Nadu)
-* Overlays energy deficit indicators
-* Demonstrates how SMR deployment eliminates import dependency
+* Maps thorium-bearing coastal regions: Kerala, Odisha, Andhra Pradesh, Tamil Nadu
+* Overlays regional energy deficits
+* Identifies optimal SMR deployment zones
 
-### 2. Local Prosperity Engine (SME Layer)
+**Strategic Effect:** Converts resource geography into energy dominance.
 
-* Identifies district-level industrial opportunities
-* Supports sectors like:
+---
+
+### 2. Oil Disruption & Electrification Layer
+
+* Thorium-powered electricity enables EV ecosystems at scale
+* Reduces structural dependence on petrol and diesel
+* Supports electrification of logistics, rail, and industry
+
+**Strategic Effect:** Gradual collapse of oil dependency.
+
+---
+
+### 3. Hydrogen Transformation Layer
+
+* High-Temperature Electrolysis (HTE) enabled by thorium heat
+* Hydrogen replaces diesel, LNG, and industrial fuels
+* ~40% cost reduction vs solar-based hydrogen pathways
+
+**Strategic Effect:** Clean, scalable industrial fuel independence.
+
+---
+
+### 4. Local Prosperity Engine (SME Layer)
+
+* District-level industrial opportunity mapping
+* Key sectors:
 
   * Green Hydrogen
   * Desalination
   * Precision Manufacturing
-* Built on 24/7 thorium-based energy reliability
 
-### 3. National Exigency Protocol
+**Strategic Effect:** Energy-backed decentralized industrial growth.
 
-* Defines a **100% fuel independence logic**
-* Uses **High-Temperature Electrolysis (HTE)**
-* Projects ~40% reduction in hydrogen production costs vs solar pathways
+---
 
-### 4. Nano Banana IP Shield
+### 5. National Exigency Protocol
 
-* A defensive publication framework
+* 100% Fuel Independence Logic
+* Domestic energy replaces imported hydrocarbons
+* Crisis-resilient energy architecture
+
+**Strategic Effect:** Strategic autonomy during global disruptions.
+
+---
+
+### 6. Nano Banana IP Shield
+
+* Defensive publication framework
 * Prevents foreign patent monopolization
-* Establishes a **zero-cost sovereign IP protection layer**
+* Zero-cost intellectual property protection
 
-### 5. Sovereign Intelligence Audit Layer
+**Strategic Effect:** Establishes a durable **Sovereign Moat** for innovation.
 
-* Backed by **262+ DOIs**
-* Cross-platform validation across **353+ live systems**
-* Transparent and verifiable research foundation
+---
+
+### 7. Sovereign Intelligence Audit Layer
+
+* 262+ DOI-verified research references
+* 353+ distributed knowledge platforms
+* Cross-platform validation and traceability
+
+**Strategic Effect:** Institutional-grade credibility and transparency.
+
+---
+
+## Evidence Stack
+
+* 262+ DOI-linked research validations
+* 353+ live knowledge platforms
+* 173+ interconnected GitHub repositories
+* Zenodo archival layer for verifiable records
+
+This system is continuously validated through open scientific and digital infrastructure.
 
 ---
 
 ## Strategic Framing
 
-BTEL is positioned as:
+BTEL functions as:
 
-* A **Sovereign Moat** for India's energy future
+* A **Sovereign Moat** for India’s energy future
 * A framework for **Intellectual Sovereignty**
-* A scalable model for **citizen-led national infrastructure**
+* A scalable model for **citizen-originated national infrastructure**
 
 ---
 
 ## Live Dashboard
 
-Access the full blueprint here:
+Access the full strategic blueprint:
 👉 https://opal.google/app/1Ms-1bHVXqp99u4B_uH7ejvWEa0ZXDk71
 
 ---
@@ -84,7 +150,7 @@ Access the full blueprint here:
 ## Supporting Evidence
 
 * Zenodo Archive: https://zenodo.org/record/18524801
-* GitHub Repositories: (173+ linked systems)
+* GitHub Systems: 173+ modular repositories
 
 ---
 
@@ -92,15 +158,21 @@ Access the full blueprint here:
 
 * Pure HTML (GitHub Pages compatible)
 * Dark-mode strategic interface
-* Designed for clarity, speed, and institutional presentation
+* Lightweight, fast, and presentation-ready
 
 ---
 
 ## Usage
 
 1. Clone or download the repository
-2. Open `index.html` in any browser
-3. Deploy via GitHub Pages (optional)
+2. Open `index.html` in a browser
+3. Deploy via GitHub Pages for public access
+
+---
+
+## Origin
+
+BTEL is a **citizen-originated knowledge infrastructure**, developed independently and validated through open scientific systems and distributed digital platforms.
 
 ---
 
@@ -119,7 +191,7 @@ Global Independent Researcher
 
 ## License
 
-This project is released for public knowledge dissemination and strategic awareness.
+Released for public knowledge dissemination and strategic awareness.
 For institutional collaboration or policy engagement, please contact the author.
 
 ---
