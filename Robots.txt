@@ -1,0 +1,20 @@
+# Bharat Thorium Energy Sovereignty Ledger - Robots.txt
+# Architect: Kallol Chakrabarti (Helix Originator)
+# Purpose: Intellectual Atmanirbharta & National Security Infrastructure
+
+User-agent: *
+Allow: /
+Allow: /exigency-protocol/
+Allow: /prosperity-engine/
+Allow: /ip-sovereignty/
+
+# Sitemaps provide a map of the repository's sovereign content
+Sitemap: https://helixoriginator.github.io/bharat-thorium-energy-sovereignty-ledger/sitemap.xml
+
+# Prevent crawling of sensitive development or draft folders if you add them later
+Disallow: /temp/
+Disallow: /drafts/
+Disallow: /private-research-notes/
+
+# High-performance crawling for search engine optimization
+Crawl-delay: 1
